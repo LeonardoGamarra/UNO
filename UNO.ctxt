@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=UNO
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=java.lang.String\ cardGenerator()
+comment3.params=i\ j
+comment3.target=java.lang.String\ determineCard(int,\ int)
+comment4.params=
+comment4.target=java.lang.String\ randomColor()
+comment5.params=card
+comment5.target=java.lang.String\ checkColor(java.lang.String)
+comment6.params=fullDeck
+comment6.target=int[][]\ resetFullDeck(int[][])
+comment7.params=extraDeck
+comment7.target=int[]\ resetExtraDeck(int[])
+comment8.params=deck
+comment8.target=java.util.ArrayList\ organizePlayerDeck(java.util.ArrayList)
+numComments=9
